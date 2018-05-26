@@ -80,7 +80,8 @@ public class StudentCode {
     h = koMul(alpha1, beta1);
     m = sub(sub(koMul(add(alpha0, alpha1), add(beta0, beta1)), l),  h);
     m.lshift(floor);
-    h.lshift(2*floor);
+    h.lshift(
+            2*floor);
     return add(add(l, m), h);
   }
 
