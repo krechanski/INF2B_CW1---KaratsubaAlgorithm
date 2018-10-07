@@ -1,6 +1,4 @@
 # INF2B_CW1---KaratsubaAlgorithm
-Implementation of the Karatsuba Algorithm in Java
-
 Year 2
 
 Language: Java
