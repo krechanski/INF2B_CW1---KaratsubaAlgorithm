@@ -6,4 +6,4 @@ Language: Java
 First coursework for Inf2B Algorithms, Data Structures and Learning
 Implementation of the Karatsuba-Ofman algorithm.
 
-Mark: 77/100
+Mark: 50/50
